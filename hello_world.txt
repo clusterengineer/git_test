@@ -1,1 +1,1 @@
-Hello world. My first git assignment.
+Hello world. My first git test.
